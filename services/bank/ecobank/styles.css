@@ -1,3 +1,66 @@
+
+html{
+    font-family: 'Poppins' !important;
+}
+
+
 h6.e-text{
 font-family: 'Poppins';
+padding-left: 2rem;
+padding-top: 1rem;
+}
+
+h4.e-text{
+    font-family: 'Poppins';
+    padding-left: 2rem;
+    padding-top: 1rem;
+    font-size: 1.6rem;
+    }
+
+.space{
+    height: 10px;
+}
+
+.space-main{
+    height: 7rem;
+}
+
+.main-view{
+    background-color: #FBFBFB;
+}
+
+.space-medium{
+    height: 1rem;
+}
+.space-top{
+    height: 5rem;
+}
+
+.account{
+border-radius: 30px;
+color:rgb(0, 0, 0);
+margin-bottom: 0px;
+font-family: 'Poppins';
+}
+
+.account-link{
+    color:black;
+}
+
+.account-link:hover{
+    color:rgb(34, 190, 241);
+    font-weight: 500;
+}
+
+a.account-link{
+text-decoration: none;
+
+}
+
+.signature{
+
+color:rgb(143, 143, 143);
+margin-bottom: 0px;
+font-family: 'Poppins';
+font-size: 0.9rem;
 }
