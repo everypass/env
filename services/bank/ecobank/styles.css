@@ -157,3 +157,27 @@ label:focus,
 span.id-prefix{
 font-size: 0.8em;
 }
+
+a.current-btn{
+    color:white;
+
+}
+
+a.current-btn:hover{
+    text-decoration: none;
+    
+}
+
+.id-upload{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+input[type="file"]{
+    background-color: #007bff;
+    display: none;
+}
