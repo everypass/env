@@ -1,6 +1,7 @@
 
 html,*{
     font-family: 'Poppins' !important;
+    
 }
 
 
@@ -182,7 +183,7 @@ a.current-btn:hover{
 }
 
 .okay-btn{
-    
+    border-radius: 20px;
 }
 
 .z-link{
