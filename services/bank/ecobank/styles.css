@@ -177,3 +177,18 @@ a.current-btn:hover{
 }
 
 
+.z-note{
+    font-size: 0.8em;
+}
+
+.okay-btn{
+    
+}
+
+.z-link{
+    color:white;
+}
+.z-link:hover{
+    text-decoration: none;
+    color:white;
+}
